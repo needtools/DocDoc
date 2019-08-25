@@ -30,4 +30,5 @@
     <string name="NAME_SURNAME">NOME COGNOME</string>
     <string name="PASSWORD">PAROLA D\'ORDINE</string>
     <string name="WELCOME_BACK">. BEN TORNATO.</string>
+    <string name="w_patients">PAZIENTI</string>
 </resources>

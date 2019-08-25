@@ -30,4 +30,5 @@
     <string name="NAME_SURNAME">NUME PRENUME</string>
     <string name="PASSWORD">PAROLA</string>
     <string name="WELCOME_BACK">. BINE AI REVENIT.</string>
+    <string name="w_patients">PACIENTII</string>
 </resources>

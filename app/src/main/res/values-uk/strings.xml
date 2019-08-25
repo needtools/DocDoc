@@ -30,4 +30,5 @@
     <string name="NAME_SURNAME">ІМ\'Я ПО БАТЬКОВІ</string>
     <string name="PASSWORD">ПАРОЛЬ</string>
     <string name="WELCOME_BACK">. З ПОВЕРНЕННЯМ.</string>
+    <string name="w_patients">ПАЦІЄНТИ</string>
 </resources>

@@ -33,7 +33,7 @@
     <item
         android:id="@+id/menu_people"
         android:icon="@drawable/menu_people"
-        android:title="patients"
+        android:title="@string/w_patients"
         app:showAsAction="ifRoom" />
 
 

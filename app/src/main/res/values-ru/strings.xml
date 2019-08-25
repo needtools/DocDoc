@@ -30,4 +30,5 @@
     <string name="NAME_SURNAME">ИМЯ ФАМИЛИЯ</string>
     <string name="PASSWORD">ПАРОЛЬ</string>
     <string name="WELCOME_BACK">ДОБРО ПОЖАЛОВАТЬ.</string>
+    <string name="w_patients">ПАЦИЕНТЫ</string>
 </resources>

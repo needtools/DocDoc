@@ -30,4 +30,5 @@
     <string name="NAME_SURNAME">NOMBRE APELLIDO</string>
     <string name="PASSWORD">CONTRASEÑA</string>
     <string name="WELCOME_BACK">. DAR UNA BUENA ACOGIDA.</string>
+    <string name="w_patients">LOS PACIENTES</string>
 </resources>

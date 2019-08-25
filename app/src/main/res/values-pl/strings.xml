@@ -30,4 +30,5 @@
     <string name="NAME_SURNAME">IMIĘ NAZWISKO</string>
     <string name="PASSWORD">HASŁO</string>
     <string name="WELCOME_BACK">. WITAMY SPOWROTEM.</string>
+    <string name="w_patients">pasjenci</string>
 </resources>

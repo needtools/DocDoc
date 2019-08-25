@@ -38,5 +38,6 @@
     <string name="EMPTY"> EMPTY </string>
     <string name="DASH" translatable="false"> - </string>
     <string name="CONTACT">  CONTACT </string>
+    <string name="w_patients">PATIENTS</string>
 
 </resources>

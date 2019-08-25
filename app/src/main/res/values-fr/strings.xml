@@ -30,4 +30,5 @@
     <string name="NAME_SURNAME">Nom Prénom</string>
     <string name="PASSWORD">MOT DE PASSE</string>
     <string name="WELCOME_BACK">. NOUS SALUONS LE RETOUR.</string>
+    <string name="w_patients">LES PATIENTS</string>
 </resources>
