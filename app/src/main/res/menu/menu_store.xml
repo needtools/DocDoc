@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="my.mytvelwe.MainActivity">
+
+    <item
+        android:id="@+id/menu_person"
+        android:icon="@drawable/menu_reg"
+        android:title="@string/registration"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_data"
+        android:icon="@drawable/menu_adddata"
+        android:title="@string/w_data"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_store"
+        android:icon="@drawable/menu_store_red"
+        android:title="@string/x_store"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_med"
+        android:icon="@drawable/menu_book"
+        android:title="@string/zz_medicine"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_contacts"
+        android:icon="@drawable/menu_contacts"
+        android:title="@string/w_contacts"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_people"
+        android:icon="@drawable/menu_people"
+        android:title="patients"
+        app:showAsAction="ifRoom" />
+
+<!--    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />-->
+
+</menu>

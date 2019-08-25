@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="lowBloodPreassure">Niedriger Druck (diastolic)</string>
+    <string name="highBloodPreassure">Oberer Druck (systolic)</string>
+    <string name="temperature">Temperatur</string>
+    <string name="sugar">Zucker</string>
+    <string name="pulse">Puls</string>
+    <string name="nameSurname">Vorname Familienname</string>
+    <string name="birthday">Datum Geburtstag</string>
+    <string name="phone">Telefon/Login</string>
+    <string name="male">Männlich</string>
+    <string name="female">Frau</string>
+    <string name="registration">ANMELDUNG</string>
+    <string name="w_contacts">KONTAKTE</string>
+    <string name="w_data">DATEN</string>
+    <string name="w_go">WEITER</string>
+    <string name="ww_gender">Geschlecht</string>
+    <string name="ww_succsess">ERFOLGREICH</string>
+    <string name="x_store">Datenspeicher</string>
+    <string name="xx_remove">LÖSCHEN</string>
+    <string name="y_cancel">STORNIEREN</string>
+    <string name="zzz_edit">BEARBEITEN</string>
+    <string name="action_settings">die Einstellungen</string>
+    <string name="CONTACT">KONTAKT</string>
+    <string name="CONTAINS">ENTHÄLT</string>
+    <string name="EMPTY">LEEREN</string>
+    <string name="ERROR">ERROR</string>
+    <string name="HELLO">HALLO</string>
+    <string name="NAME_SURNAME">VORNAME FAMILIENNAME</string>
+    <string name="PASSWORD">PASSWORT</string>
+    <string name="WELCOME_BACK">. WILLKOMMEN ZURÜCK.</string>
+</resources>

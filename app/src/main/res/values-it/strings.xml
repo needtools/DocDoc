@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="lowBloodPreassure">pressione più bassa (diastolic)</string>
+    <string name="highBloodPreassure">alta pressione (systolic)</string>
+    <string name="temperature">temperatura</string>
+    <string name="sugar">zucchero</string>
+    <string name="pulse">impulso</string>
+    <string name="nameSurname">nome cognome</string>
+    <string name="birthday">data di nascita</string>
+    <string name="phone">telefono/login</string>
+    <string name="male">maschio</string>
+    <string name="female">donna</string>
+    <string name="registration">REGISTRAZIONE</string>
+    <string name="w_contacts">CONTATTI</string>
+    <string name="w_data">DATI</string>
+    <string name="w_go">AVANTI</string>
+    <string name="ww_gender">genere</string>
+    <string name="ww_succsess">RIUSCITO</string>
+    <string name="x_store">archivio dati</string>
+    <string name="xx_remove">RIMUOVERE</string>
+    <string name="y_cancel">ANNULLA</string>
+    <string name="zzz_edit">MODIFICARE</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="CONTACT">CONTATTO</string>
+    <string name="CONTAINS">CONTIENE</string>
+    <string name="EMPTY">VUOTO</string>
+    <string name="ERROR">ERRORE</string>
+    <string name="HELLO">CIAO</string>
+    <string name="NAME_SURNAME">NOME COGNOME</string>
+    <string name="PASSWORD">PAROLA D\'ORDINE</string>
+    <string name="WELCOME_BACK">. BEN TORNATO.</string>
+</resources>

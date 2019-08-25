@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="lowBloodPreassure">pression plus basse (diastolic)</string>
+    <string name="highBloodPreassure">haute pression (systolic)</string>
+    <string name="temperature">Température</string>
+    <string name="sugar">sucre</string>
+    <string name="pulse">impulsion</string>
+    <string name="nameSurname">nom prénom</string>
+    <string name="birthday">date anniversaire</string>
+    <string name="phone">téléphone/login</string>
+    <string name="male">mâle</string>
+    <string name="female">femme</string>
+    <string name="registration">ENREGISTREMENT</string>
+    <string name="w_contacts">CONTACTS</string>
+    <string name="w_data">LES DONNÉES</string>
+    <string name="w_go">PLUS LION</string>
+    <string name="ww_gender">le sexe</string>
+    <string name="ww_succsess">RÉUSSI</string>
+    <string name="x_store">magasin de données</string>
+    <string name="xx_remove">RETIRER</string>
+    <string name="y_cancel">ANNULER</string>
+    <string name="zzz_edit">MODIFIER</string>
+    <string name="action_settings">Réglages</string>
+    <string name="CONTACT">CONTACT</string>
+    <string name="CONTAINS" translatable="false">CONTIENT</string>
+    <string name="EMPTY" translatable="false">VIDE</string>
+    <string name="ERROR">ERREUR</string>
+    <string name="HELLO">BONJOUR</string>
+    <string name="NAME_SURNAME">Nom Prénom</string>
+    <string name="PASSWORD">MOT DE PASSE</string>
+    <string name="WELCOME_BACK">. NOUS SALUONS LE RETOUR.</string>
+</resources>

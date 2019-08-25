@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="highBloodPreassure">presión superior (systolic)</string>
+    <string name="lowBloodPreassure">menor presión (diastolic)</string>
+    <string name="temperature">temperatura</string>
+    <string name="sugar">azúcar</string>
+    <string name="pulse">pulso</string>
+    <string name="nameSurname">nombre apellido</string>
+    <string name="birthday">fecha cumpleaños</string>
+    <string name="phone">teléfono/login</string>
+    <string name="male">masculino</string>
+    <string name="female">hembra</string>
+    <string name="registration">REGISTRO</string>
+    <string name="w_contacts">CONTACTOS</string>
+    <string name="w_data">DATOS</string>
+    <string name="w_go">ADEMÁS</string>
+    <string name="ww_gender">género</string>
+    <string name="ww_succsess">EXITOSO</string>
+    <string name="x_store">Almacén de datos</string>
+    <string name="xx_remove">RETIRAR</string>
+    <string name="y_cancel">CANCELAR</string>
+    <string name="zzz_edit">EDITAR</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="CONTACT">CONTACTO</string>
+    <string name="CONTAINS">CONTIENE</string>
+    <string name="EMPTY">VACÍO</string>
+    <string name="ERROR">ERROR</string>
+    <string name="HELLO">HOLA</string>
+    <string name="NAME_SURNAME">NOMBRE APELLIDO</string>
+    <string name="PASSWORD">CONTRASEÑA</string>
+    <string name="WELCOME_BACK">. DAR UNA BUENA ACOGIDA.</string>
+</resources>

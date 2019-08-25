@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="lowBloodPreassure">нижнее давление (diastolic)</string>
+    <string name="highBloodPreassure">верхнее давление (systolic)</string>
+    <string name="temperature">температура</string>
+    <string name="sugar">сахар</string>
+    <string name="pulse">пульс</string>
+    <string name="nameSurname">имя фамилия</string>
+    <string name="birthday">дата рождения</string>
+    <string name="phone">телефон/login</string>
+    <string name="male">мужчина</string>
+    <string name="female">женщина</string>
+    <string name="registration">РЕГИСТРАЦИЯ</string>
+    <string name="w_contacts">КОНТАКТЫ</string>
+    <string name="w_data">ДАННЫЕ</string>
+    <string name="w_go">ДАЛЕЕ</string>
+    <string name="ww_gender">пол</string>
+    <string name="ww_succsess">УСПЕШНО</string>
+    <string name="x_store">хранилище</string>
+    <string name="xx_remove">УДАЛИТЬ</string>
+    <string name="y_cancel">ОТМЕНИТЬ</string>
+    <string name="zzz_edit">РЕДАКТИРОВАТЬ</string>
+    <string name="action_settings">Настройки</string>
+    <string name="CONTACT">КОНТАКТ</string>
+    <string name="CONTAINS">СОДЕРЖИТ</string>
+    <string name="EMPTY">ПУСТО</string>
+    <string name="ERROR">ОШИБКА</string>
+    <string name="HELLO">ПРИВЕТ</string>
+    <string name="NAME_SURNAME">ИМЯ ФАМИЛИЯ</string>
+    <string name="PASSWORD">ПАРОЛЬ</string>
+    <string name="WELCOME_BACK">ДОБРО ПОЖАЛОВАТЬ.</string>
+</resources>

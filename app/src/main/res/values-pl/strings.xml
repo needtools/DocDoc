@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="lowBloodPreassure">niższe ciśnienie (diastolic)</string>
+    <string name="highBloodPreassure">górne ciśnienie (systolic)</string>
+    <string name="temperature">temperatura</string>
+    <string name="sugar">cukier</string>
+    <string name="pulse">puls</string>
+    <string name="birthday">data urodzin</string>
+    <string name="phone">telefon/login</string>
+    <string name="male">męski</string>
+    <string name="female">kobieta</string>
+    <string name="nameSurname">imię nazwisko</string>
+    <string name="registration">REJESTRACJA</string>
+    <string name="w_contacts">łączność</string>
+    <string name="w_data">DANE</string>
+    <string name="w_go">PONADTO</string>
+    <string name="ww_gender">płeć</string>
+    <string name="ww_succsess">ODNOSZĄCY SUKCESY</string>
+    <string name="x_store">magazyn danych</string>
+    <string name="xx_remove">USUNĄĆ</string>
+    <string name="y_cancel">ANULUJ</string>
+    <string name="zzz_edit">EDYTOWAĆ</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="CONTACT">KONTAKT</string>
+    <string name="CONTAINS">ZAWIERA</string>
+    <string name="EMPTY">PUSTY</string>
+    <string name="ERROR">BŁĄD</string>
+    <string name="HELLO">CZEŚĆ</string>
+    <string name="NAME_SURNAME">IMIĘ NAZWISKO</string>
+    <string name="PASSWORD">HASŁO</string>
+    <string name="WELCOME_BACK">. WITAMY SPOWROTEM.</string>
+</resources>

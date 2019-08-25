@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="lowBloodPreassure">нижній тиск (diastolic)</string>
+    <string name="highBloodPreassure">верхній тиск (systolic)</string>
+    <string name="temperature">температура</string>
+    <string name="sugar">цукор</string>
+    <string name="pulse">пульс</string>
+    <string name="nameSurname">ім\'я прізвище</string>
+    <string name="birthday">дата народження</string>
+    <string name="phone">телефон/login</string>
+    <string name="male">чоловік</string>
+    <string name="female">жінка</string>
+    <string name="registration">РЕЄСТРАЦІЯ</string>
+    <string name="w_contacts">КОНТАКТИ</string>
+    <string name="w_data">ДАНІ</string>
+    <string name="w_go">ДАЛІ</string>
+    <string name="ww_gender">стать</string>
+    <string name="ww_succsess">УСПІШНО</string>
+    <string name="x_store">хранилище</string>
+    <string name="xx_remove">ВИДАЛИТИ</string>
+    <string name="y_cancel">ВІДМІНИТИ</string>
+    <string name="zzz_edit">РЕДАГУВАТИ</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="CONTACT">КОНТАКТ</string>
+    <string name="CONTAINS">МІСТИТЬ</string>
+    <string name="EMPTY">ПОРОЖНЬО</string>
+    <string name="ERROR">ПОМИЛКА</string>
+    <string name="HELLO">ПРИВІТ</string>
+    <string name="NAME_SURNAME">ІМ\'Я ПО БАТЬКОВІ</string>
+    <string name="PASSWORD">ПАРОЛЬ</string>
+    <string name="WELCOME_BACK">. З ПОВЕРНЕННЯМ.</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="action_settings">Settings</string>
+    <string name="highBloodPreassure">high preassure (systolic)</string>
+    <string name="lowBloodPreassure">low preassure (diastolic)</string>
+    <string name="temperature">temperature</string>
+    <string name="sugar">sugar</string>
+    <string name="pulse">pulse</string>
+    <string name="phone">phone/login</string>
+    <string name="male">male</string>
+    <string name="nameSurname">name surname</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="w_contacts">CONTACTS</string>
+    <string name="w_data">DATA</string>
+    <string name="w_go">GO</string>
+    <string name="ww_gender">gender</string>
+    <string name="ww_succsess">SUCCSESSFUL</string>
+    <string name="x_store">datastore</string>
+    <string name="xx_remove">REMOVE</string>
+    <string name="y_cancel">CANCEL</string>
+    <string name="loginHint" translatable="false">login</string>
+    <string name="zpassword" translatable="false">password</string>
+    <string name="email" translatable="false">email</string>
+    <string name="zz_medicine" translatable="false">medicine</string>
+    <string name="zzz_edit">EDIT</string>
+    <string name="birthday">date of birth</string>
+    <string name="female">female</string>
+    <string name="internet_no" translatable="false">INTERNET :(</string>
+    <string name="OK" translatable="false">OK</string>
+    <string name="UPS" translatable="false"> :(</string>
+    <string name="HELLO">HELLO </string>
+    <string name="WELCOME_BACK">. WELCOME BACK.</string>
+    <string name="PHONE_LOGIN" translatable="false"> PHONE/LOGIN </string>
+    <string name="CONTAINS">  CONTAINS </string>
+    <string name="PASSWORD"> PASSWORD </string>
+    <string name="ERROR"> ERROR </string>
+    <string name="NAME_SURNAME"> NAME SURNAME </string>
+    <string name="EMPTY"> EMPTY </string>
+    <string name="DASH" translatable="false"> - </string>
+    <string name="CONTACT">  CONTACT </string>
+
+</resources>

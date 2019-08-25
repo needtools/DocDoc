@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocDoc</string>
+    <string name="lowBloodPreassure">presiune mai mică (diastolic)</string>
+    <string name="highBloodPreassure">presiune superioară (systolic)</string>
+    <string name="temperature">temperatură</string>
+    <string name="sugar">zahăr</string>
+    <string name="pulse">puls</string>
+    <string name="nameSurname">nume prenume</string>
+    <string name="birthday">ziua de naștere</string>
+    <string name="phone">telefon/login</string>
+    <string name="male">masculin</string>
+    <string name="female">femeie</string>
+    <string name="registration">ÎNREGISTRARE</string>
+    <string name="w_contacts">CONTACTE</string>
+    <string name="w_data">DATE</string>
+    <string name="w_go">NEXT</string>
+    <string name="ww_gender">sex</string>
+    <string name="ww_succsess">DE SUCCES</string>
+    <string name="x_store">datastore</string>
+    <string name="xx_remove">ELIMINA</string>
+    <string name="y_cancel">ANULARE</string>
+    <string name="zzz_edit">"EDITAȚI "</string>
+    <string name="action_settings">Setări</string>
+    <string name="CONTACT">A LUA LEGATURA</string>
+    <string name="CONTAINS">CONȚINE</string>
+    <string name="EMPTY">GOL</string>
+    <string name="ERROR">EROARE</string>
+    <string name="HELLO">SALUT</string>
+    <string name="NAME_SURNAME">NUME PRENUME</string>
+    <string name="PASSWORD">PAROLA</string>
+    <string name="WELCOME_BACK">. BINE AI REVENIT.</string>
+</resources>
